@@ -1,0 +1,8 @@
+{
+  "replace" : true,
+  "values": [
+    "#minecraft:swords",
+    "#minecraft:axes",
+    "#minecraft:scythes"
+  ]
+}

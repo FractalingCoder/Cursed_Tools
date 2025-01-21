@@ -1,0 +1,40 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "minecraft:item/handheld",
+	"textures": {
+		"layer0": "cursed-tools:item/ghost_scythe",
+		"particle": "cursed-tools:item/ghost_scythe"
+	},
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [58.94, -85.23, 81.19],
+			"translation": [0, 4.5, 2],
+			"scale": [1.33203, 1.33203, 1.33203]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [57.49, 84.93, -75.44],
+			"translation": [0, 4.5, 2.25],
+			"scale": [1.33203, 1.33203, 1.33203]
+		},
+		"firstperson_righthand": {
+			"rotation": [58.94, -85.23, 81.19],
+			"translation": [0, 4.5, 2],
+			"scale": [1.33203, 1.33203, 1.33203]
+		},
+		"firstperson_lefthand": {
+			"rotation": [57.49, 84.93, -75.44],
+			"translation": [0, 4.5, 1.5],
+			"scale": [1.33203, 1.33203, 1.33203]
+		},
+		"ground": {
+			"translation": [0, 6, 0],
+			"scale": [1.33, 1.33, 1.33]
+		},
+		"head": {
+			"translation": [0, 6.75, 0]
+		},
+		"fixed": {
+			"scale": [1.31836, 1.31836, 1.31836]
+		}
+	}
+}
